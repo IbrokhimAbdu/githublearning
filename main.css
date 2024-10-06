@@ -1,4 +1,4 @@
-#logo{
+#logo button{
     display: block;
     margin: 0 auto; /* Centers the image horizontally */
     max-width: 50%; /* Adjust this value to control the image size */
@@ -12,5 +12,5 @@ html{
     background-color: wheat;
 }
 div{
-    text-align: end;
+    text-align: center;
 }
